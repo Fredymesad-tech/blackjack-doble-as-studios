@@ -34,7 +34,7 @@ def crear_mazo():
 
 
 def repartir_carta(mazo, mano):
-    """Saca la carta de encima del mazo y la agrega a la mano indicada.
+    """Saca la carta de encima del Mazo y la agrega a la mano indicada.
     Si el mazo se queda sin cartas, se vuelve a crear uno nuevo."""
     if len(mazo) == 0:
         nuevas = crear_mazo()
