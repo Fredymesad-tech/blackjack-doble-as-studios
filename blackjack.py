@@ -6,7 +6,7 @@ Programacion G02
 Juego de Black Jack simplificado para dos jugadores (usuario vs maquina).
 """
 
-import random
+import random 
 
 # ---------------------------------------------------------
 # Constantes del juego
